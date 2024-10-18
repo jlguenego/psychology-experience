@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  head: [['link', { rel: 'icon', href: '/logo-light.svg' }]],
   lang: 'fr-FR',
   title: 'Experipsy',
   description: "Un catalogue d'experiences en psychologie",
