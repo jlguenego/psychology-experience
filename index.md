@@ -3,9 +3,8 @@
 layout: home
 
 hero:
-  name: 'Expériences en psychologie'
-  # text: "Un catalogue d'expériences en psychologie"
-  tagline: "Un catalogue d'expériences en psychologie"
+  name: 'Experipsy'
+  tagline: "Recensement d'expériences scientifiques en psychologie"
   actions:
     - theme: alt
       text: Concepts
