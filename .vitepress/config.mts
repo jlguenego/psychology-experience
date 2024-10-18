@@ -33,6 +33,10 @@ export default withPwa(
       ],
     },
     pwa: {
+      pwaAssets: {
+        disabled: false,
+        config: true,
+      },
       manifest: {
         name: 'Experipsy',
         short_name: 'Experipsy',
@@ -44,14 +48,6 @@ export default withPwa(
             src: '/pwa-512x512.png',
             sizes: '512x512',
             type: 'image/png',
-            form_factor: 'wide',
-            label: 'Experipsy',
-          },
-          {
-            src: '/pwa-192x192.png',
-            sizes: '192x192',
-            type: 'image/png',
-            form_factor: 'narrow',
             label: 'Experipsy',
           },
         ],
