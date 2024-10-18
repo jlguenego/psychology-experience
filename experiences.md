@@ -2,54 +2,39 @@
 outline: deep
 ---
 
-# Experiences
+# Catalogue d'experiences en psychologie
 
-This page demonstrates usage of some of the runtime APIs provided by VitePress.
+## 1947
 
-The main `useData()` API can be used to access site, theme, and page data for the current page. It works in both `.md` and `.vue` files:
+- Kurt Lewin : Expérience sur l'**effet de gel** et l'engagement.
+  - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 30)
 
-```md
-<script setup>
-import { useData } from 'vitepress'
+## 1972
 
-const { theme, page, frontmatter } = useData()
-</script>
+- Harris : expérience de **pied dans la porte**. Demander l'heure avant de demander un peu d'argent pour téléphoner.
+  - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 13)
 
-## Results
+## 1975
 
-### Theme Data
+- Moriarty : expérience sur la condition d'engagement. Contrer un vol.
+  - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 27)
 
-<pre>{{ theme }}</pre>
+## 1976
 
-### Page Data
+- Staw : expérience sur l'engagement. Ecole de Business, choix d'investissement. Escalade d'engagement.
+  - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 32)
 
-<pre>{{ page }}</pre>
+## 1978
 
-### Page Frontmatter
+- Robert Caldini et ses collaborateurs: Expérience sur l'**amorçage** et le **leurre**, l'engagement et la libre décision
+  - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 58)
 
-<pre>{{ frontmatter }}</pre>
-```
+## 1979
 
-<script setup>
-import { useData } from 'vitepress'
+- Brockner, Shaw, Rubin : mise en évidence du piège abscon.
+  - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 39)
 
-const { site, theme, page, frontmatter } = useData()
-</script>
+## 1985
 
-## Results
-
-### Theme Data
-
-<pre>{{ theme }}</pre>
-
-### Page Data
-
-<pre>{{ page }}</pre>
-
-### Page Frontmatter
-
-<pre>{{ frontmatter }}</pre>
-
-## More
-
-Check out the documentation for the [full list of runtime APIs](https://vitepress.dev/reference/runtime-api#usedata).
+- Arkes et Blumer : expérience sur la dépense gâchée.
+  - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 37)
