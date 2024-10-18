@@ -125,4 +125,7 @@ Par exemple, si vous demandez à une personne d'argumenter en faveur d'une
 opinion contraire à ses valeurs, elle finira par modifier ses valeurs pour se
 conformer à l'opinion qu'elle défend.
 
+Selon Joules (1996), la personne pourra même effectuer des actes allant dans le
+sens de l'opinion où d'une décision dissonnante antérieure.
+
 - [La-théorie-de-la-dissonance-cognitive](https://psychologiescientifique.org/wp-content/uploads/2018/02/Vaidis-et-Halimi-Falkowicz-2007-La-th%C3%A9orie-de-la-dissonance-cognitive-une-th%C3%A9orie.pdf)
