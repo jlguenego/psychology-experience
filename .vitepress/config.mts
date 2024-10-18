@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/psychology-experience/',
   title: 'Experience en psychologie',
   description: "Un catalogue d'experiences en psychologie",
   themeConfig: {
