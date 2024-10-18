@@ -144,3 +144,7 @@
 :root {
   --vp-sidebar-width: 300px;
 }
+
+.VPNavBarTitle {
+  font-size: 10px;
+}

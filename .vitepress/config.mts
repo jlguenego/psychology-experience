@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'fr-FR',
-  title: 'Experiences en psychologie',
+  title: 'Expsy',
   description: "Un catalogue d'experiences en psychologie",
   themeConfig: {
     logo: { light: '/logo-light.svg', dark: '/logo-dark.svg', alt: 'Logo' },
