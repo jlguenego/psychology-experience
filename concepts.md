@@ -68,6 +68,20 @@ souvenirs des comportements négatifs ou fautifs de sa part concernant une cause
 avant d'inviter votre interlocuteur à s'engager sur des comportements plus
 corrects sur cette même cause.
 
+### Amorçage
+
+Technique de manipulation consistant à attirer le client avec une offre
+apparamment avantageuse (leurre, appât) mais qui en fait ne l'est pas car avec
+des informations manquantes qui l'a rende beaucoup moins attractive.
+
+Le client persévère à croire que c'est la bonne décision et fait quand même un
+deal.
+
+### Leurre
+
+C'est l'offre avantageuse que le client n'aura pas. Mais qui l'aura conduit à
+accepter une offre nettement moins avantageuse.
+
 ## Biais cognitifs
 
 ### Soumission librement consentie
