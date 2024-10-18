@@ -32,6 +32,23 @@ export default withPwa(
         },
       ],
     },
-    pwa: {},
+    pwa: {
+      manifest: {
+        name: 'Experipsy',
+        short_name: 'Experipsy',
+        description: 'Expériences en psychologie',
+        theme_color: '#ffffff',
+        lang: 'fr',
+        screenshots: [
+          {
+            src: '/illustration.svg',
+            sizes: '640x320',
+            type: 'image/svg+xml',
+            form_factor: 'wide',
+            label: 'Experipsy',
+          },
+        ],
+      },
+    },
   })
 )
