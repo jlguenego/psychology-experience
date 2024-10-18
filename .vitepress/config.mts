@@ -50,6 +50,13 @@ export default withPwa(
             type: 'image/png',
             label: 'Experipsy',
           },
+          {
+            src: '/maskable-icon-512x512.png',
+            sizes: '512x512',
+            type: 'image/png',
+            label: 'Experipsy',
+            form_factor: 'wide',
+          },
         ],
       },
     },
