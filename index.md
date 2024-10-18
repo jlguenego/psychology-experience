@@ -3,23 +3,25 @@
 layout: home
 
 hero:
-  name: "Experience en psychologie"
-  text: "Un catalogue d'experiences en psychologie"
-  tagline: My great project tagline
+  name: 'Expériences en psychologie'
+  # text: "Un catalogue d'expériences en psychologie"
+  tagline: "Un catalogue d'expériences en psychologie"
   actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Concepts
+      link: /concepts
+    - theme: brand
+      text: Voir les expériences
+      link: /experiences
+  image:
+    src: /illustration.svg
+    alt: Experiences en psychologie
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Simple
+    details: "Juste 2 pages : une listant des concepts, l'autre listant les expériences par ordre chronologique."
+  - title: Clair
+    details: "Toutes les définitions vont droit à l'objet"
+  - title: Sourcé
+    details: 'Les concepts et expériences relatée ont toujours un lien sur internet.'
 ---
-

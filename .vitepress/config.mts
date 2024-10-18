@@ -9,8 +9,8 @@ export default defineConfig({
     logo: { light: '/logo-light.svg', dark: '/logo-dark.svg', alt: 'Logo' },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' },
+      { text: 'Concepts', link: '/concepts' },
+      { text: 'Expériences', link: '/experiences' },
     ],
 
     sidebar: [
@@ -23,8 +23,8 @@ export default defineConfig({
       },
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
-    ],
+    // socialLinks: [
+    //   // { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
+    // ],
   },
 })
