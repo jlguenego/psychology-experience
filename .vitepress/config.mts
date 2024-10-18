@@ -18,6 +18,8 @@ export default withPwa(
 
       sidebar: [
         {
+          text: 'Accueil',
+          link: '/',
           items: [
             { text: 'Concepts', link: '/concepts' },
             { text: 'Expériences', link: '/experiences' },
