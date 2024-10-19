@@ -9,6 +9,10 @@ export default withPwa(
     title: 'Experipsy',
     description: "Un catalogue d'experiences en psychologie",
     themeConfig: {
+      outline: {
+        label: 'Sur cette page',
+        level: 'deep',
+      },
       logo: { light: '/logo-light.svg', dark: '/logo-dark.svg', alt: 'Logo' },
       // https://vitepress.dev/reference/default-theme-config
       nav: [

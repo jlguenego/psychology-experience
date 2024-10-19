@@ -24,6 +24,12 @@ On accorde aux gens le fait d'avoir un comportement consistant. Ils se
 comportent de la même manière dans des situations similaires. Encore faut-il
 bien prendre en compte le contexte d'engagement.
 
+### Persévération d'une décision
+
+Plus une décision est réalisée dans un contexte libre, plus elle est engageante.
+
+libre décision ≠ décision forcée
+
 ## Technologie comportementale périphérique
 
 Façon politiquement correct pour dire : **Technique de manipulation**.
@@ -102,6 +108,10 @@ deal avec un sentiment de liberté.
 
 C'est l'offre avantageuse que le client n'aura pas. Mais qui l'aura conduit à
 accepter une offre de substitution nettement moins avantageuse.
+
+Pour qu'il y ait un leurre, il faut une décision initiale qui n'aboutira pas.
+
+- http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 32)
 
 ## Biais cognitifs
 
