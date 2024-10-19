@@ -41,6 +41,11 @@ export default withPwa(
         next: 'Page suivante &gt;',
         prev: '&lt; Page précédente',
       },
+      darkModeSwitchLabel: 'Apparence',
+      lightModeSwitchTitle: 'Régler le thème clair',
+      darkModeSwitchTitle: 'Régler le thème foncé',
+      sidebarMenuLabel: 'Menu',
+      returnToTopLabel: 'Retourner en haut',
     },
     pwa: {
       pwaAssets: {
