@@ -11,7 +11,8 @@ outline: deep
 
 ## 1972
 
-- Harris : expérience de **pied dans la porte**. Demander l'heure avant de demander un peu d'argent pour téléphoner.
+- Harris : expérience de **pied dans la porte**. Demander l'heure avant de
+  demander un peu d'argent pour téléphoner.
   - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 13)
 
 ## 1975
@@ -21,12 +22,14 @@ outline: deep
 
 ## 1976
 
-- Staw : expérience sur l'engagement. Ecole de Business, choix d'investissement. Escalade d'engagement.
+- Staw : expérience sur l'engagement. Ecole de Business, choix d'investissement.
+  Escalade d'engagement.
   - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 32)
 
 ## 1978
 
-- Robert Caldini et ses collaborateurs: Expérience sur l'**amorçage** et le **leurre**, l'engagement et la libre décision
+- Robert Caldini et ses collaborateurs: Expérience sur l'**amorçage** et le
+  **leurre**, l'engagement et la libre décision
   - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 58)
 
 ## 1979
@@ -38,3 +41,8 @@ outline: deep
 
 - Arkes et Blumer : expérience sur la dépense gâchée.
   - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 37)
+
+## 1989
+
+- Joule, Gouilloux et Weber: Technique du leurre.
+  - https://www.proquest.com/docview/1349662578

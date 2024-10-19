@@ -6,9 +6,7 @@ outline: deep
 
 Voici une liste de concepts en psychologie sociale important à comprendre.
 
-## Technologie comportementale périphérique
-
-Façon politiquement correct pour dire : **Technique de manipulation**.
+## Concepts théoriques
 
 ### Rapport de force
 
@@ -26,13 +24,36 @@ On accorde aux gens le fait d'avoir un comportement consistant. Ils se
 comportent de la même manière dans des situations similaires. Encore faut-il
 bien prendre en compte le contexte d'engagement.
 
-### Questions préparatoires
+## Technologie comportementale périphérique
+
+Façon politiquement correct pour dire : **Technique de manipulation**.
+
+### Phases préparatoires
 
 Questions que le manipulateur va poser avant de poser la question cible.
 
-### Question cible
+### Phase finale d'obtention du comportement
 
-Question que le manipulateur va poser après les questions préparatoires.
+Peut être manifestée par :
+
+- sollicitation par une demande, une offre, une question (comportement
+  explicite)
+- présentation d'une situation (comportement implicite)
+
+## L'Expérience scientifique
+
+Dans une expérience contrôlée, les scientifiques comparent un groupe témoin et
+un groupe expérimental identique en tous points, à une différence près : la
+manipulation expérimentale.
+
+### Condition de contrôle
+
+- Aucune variable de manipulation appliquée sur un groupe de contrôle.
+
+### Condition expérimentale
+
+- Une variable de manipulation à tester sur un groupe expérimental de même
+  taille que le groupe de contrôle.
 
 ## Liste de techniques de manipulation
 
@@ -75,12 +96,12 @@ apparamment avantageuse (leurre, appât) mais qui en fait ne l'est pas car avec
 des informations manquantes qui l'a rende beaucoup moins attractive.
 
 Le client persévère à croire que c'est la bonne décision et fait quand même un
-deal.
+deal avec un sentiment de liberté.
 
 ### Leurre
 
 C'est l'offre avantageuse que le client n'aura pas. Mais qui l'aura conduit à
-accepter une offre nettement moins avantageuse.
+accepter une offre de substitution nettement moins avantageuse.
 
 ## Biais cognitifs
 
