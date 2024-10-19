@@ -9,6 +9,18 @@ outline: deep
 - Kurt Lewin : Expérience sur l'**effet de gel** et l'engagement.
   - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 30)
 
+## 1963
+
+- Stanley Milgram : Etude du comportement humain face à l'autorité. Capacité à
+  obéir même si cela implique d'infliger des souffrances à autrui.
+  - https://fr.wikipedia.org/wiki/Exp%C3%A9rience_de_Milgram
+
+## 1971
+
+- Philip Zimbardo : Expérience de Stanford, sur les effets de la situation
+  carcérale (appelée aussi Effet Lucifer)
+  - https://fr.wikipedia.org/wiki/Exp%C3%A9rience_de_Stanford
+
 ## 1972
 
 - Harris : expérience de **pied dans la porte**. Demander l'heure avant de

@@ -37,6 +37,10 @@ export default withPwa(
           link: 'https://github.com/jlguenego/psychology-experience',
         },
       ],
+      docFooter: {
+        next: 'Page suivante &gt;',
+        prev: '&lt; Page précédente',
+      },
     },
     pwa: {
       pwaAssets: {

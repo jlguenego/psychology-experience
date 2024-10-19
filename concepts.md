@@ -6,7 +6,53 @@ outline: deep
 
 Voici une liste de concepts en psychologie sociale important à comprendre.
 
+## Théories
+
+### Théorie de l'engagement
+
+Charles Kiesler (1971) : L'engagement est le lien qui existe entre l'individu et
+ses actes.
+
+- Seuls les actes engagent l'individu.
+- La force de l'engagement tient dans le contexte de libre décision.
+
+La force de l'engagement dépend par exemple :
+
+- de l'aspect privé ou public de l'acte
+- de la répétition de l'acte
+- de l'aspect irrévocable de l'acte
+- de l'aspect coût de l'acte
+- du sentiment de liberté qui accompagne l'acte.
+
 ## Concepts théoriques
+
+### Illusion de liberté
+
+Kelley (1967), l'individu croît choisir en toute liberté, mais en fait choisit
+sous l'influence d'une soumission à d'une autorité sociale.
+
+Exemple d'autorité sociale:
+
+- Professeur / élève
+- Expérimentateur / sujet
+- Employeur / salarié
+- Client / Fournisseur
+- Parent / Enfants
+- etc.
+
+Joule et Beauvois (1998) préfèrent parler de _soumission forcée avec libre
+choix_
+
+- http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 81)
+
+### Actes problématiques et non problématiques
+
+Un acte problématique est un acte avec lequel notre morale, nos idées sont en
+désaccord. On aura une _dissonance cognitive_ si on execute un acte
+problématique.
+
+Un acte non problématique est un acte en accord avec nos idées. L'effectuer
+renforce nos idées.
 
 ### Rapport de force
 
@@ -113,6 +159,22 @@ Pour qu'il y ait un leurre, il faut une décision initiale qui n'aboutira pas.
 
 - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 32)
 
+### Un toucher dans le pied dans la porte
+
+Technique de manipulation consistant à toucher avec la paume de sa main le
+client tout en lui faisant un pied dans la porte.
+
+- http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 171)
+- https://psycnet.apa.org/record/1983-02301-001
+
+### Etiquetage
+
+Il est réalisé par une attribution de valeur.
+
+"Vous êtes vraiment quelqu'un de bien."
+
+- http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 179)
+
 ## Biais cognitifs
 
 ### Soumission librement consentie
@@ -160,11 +222,11 @@ membres considérés individuellement.
 
 ### Dissonance cognitive
 
-Selon la théorie de la dissonance cognitive, lorsque les circonstances amènent
-une personne à agir en désaccord avec ses croyances, cette personne éprouvera un
-état de tension inconfortable appelé dissonance, qui, par la suite, tendra à
-être réduit, par exemple par une modication de ses croyances dans le sens de
-l’acte.
+Selon la théorie de la dissonance cognitive de Festinger (1957), lorsque les
+circonstances amènent une personne à agir en désaccord avec ses croyances, cette
+personne éprouvera un état de tension inconfortable appelé dissonance, qui, par
+la suite, tendra à être réduit, par exemple par une modication de ses croyances
+dans le sens de l’acte.
 
 Par exemple, si vous demandez à une personne d'argumenter en faveur d'une
 opinion contraire à ses valeurs, elle finira par modifier ses valeurs pour se
