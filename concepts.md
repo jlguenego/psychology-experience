@@ -90,7 +90,13 @@ Façon politiquement correct pour dire : **Technique de manipulation**.
 
 ### Phases préparatoires
 
-Questions que le manipulateur va poser avant de poser la question cible.
+Actes que le manipulateur va demander au sujet de faire l'acte recherché.
+
+Dans le cas d'un pied dans la porte, il va demander quelque chose qui semble
+facile et anodin.
+
+Dans le cas d'une porte au nez, il va demander quelque chose qui semble
+ahurissant, mais pour une bonne cause.
 
 ### Phase finale d'obtention du comportement
 
