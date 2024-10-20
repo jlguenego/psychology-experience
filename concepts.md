@@ -173,14 +173,6 @@ Pour qu'il y ait un leurre, il faut une décision initiale qui n'aboutira pas.
 
 - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 32)
 
-### Un toucher dans le pied dans la porte
-
-Technique de manipulation consistant à toucher avec la paume de sa main le
-client tout en lui faisant un pied dans la porte.
-
-- http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 171)
-- https://psycnet.apa.org/record/1983-02301-001
-
 ### Etiquetage
 
 Il est réalisé par une attribution de valeur.
@@ -188,6 +180,24 @@ Il est réalisé par une attribution de valeur.
 "Vous êtes vraiment quelqu'un de bien."
 
 - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 179)
+
+### Mais vous êtes libre de
+
+Il consiste à renforcer le fait que l'acte demandé doit être fait en toute
+liberté par le sujet de façon à renforcer son engagement.
+
+## Techniques composites de manipulation
+
+Il s'agit de combiner les techniques vu précédemment ensemble pour acroître les
+chances de réussites de l'acte cible.
+
+### Un toucher dans le pied dans la porte
+
+Technique de manipulation consistant à toucher avec la paume de sa main le
+client tout en lui faisant un pied dans la porte.
+
+- http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 171)
+- https://psycnet.apa.org/record/1983-02301-001
 
 ## Biais cognitifs
 

@@ -58,3 +58,9 @@ outline: deep
 
 - Joule, Gouilloux et Weber: Technique du leurre.
   - https://www.proquest.com/docview/1349662578
+
+## 2002
+
+- Guéguen, Pascual : expérience sur la technique "Mais vous êtes libre de"
+  - https://www.researchgate.net/publication/236783579_La_technique_du_vous_etes_libre_de_induction_d'un_sentiment_de_liberte_et_soumission_a_une_requete_ou_le_paradoxe_d'une_liberte_manipulatrice/link/02e7e5287485a59aa5000000/download?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIn19
+  - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 160)
