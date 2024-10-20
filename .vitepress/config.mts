@@ -8,6 +8,8 @@ export default withPwa(
     lang: 'fr-FR',
     title: 'Experipsy',
     description: "Un catalogue d'experiences en psychologie",
+    cleanUrls: true,
+
     themeConfig: {
       outline: {
         label: 'Sur cette page',
