@@ -36,11 +36,16 @@ outline: deep
 
 - Staw : expérience sur l'engagement. Ecole de Business, choix d'investissement.
   Escalade d'engagement.
+
   - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 32)
+
+- Cialdini et Schroeder : Expérience sur la technique de "Un peu c'est mieux que
+  rien"
+  - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 162)
 
 ## 1978
 
-- Robert Caldini et ses collaborateurs: Expérience sur l'**amorçage** et le
+- Robert Cialdini et ses collaborateurs: Expérience sur l'**amorçage** et le
   **leurre**, l'engagement et la libre décision
   - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 58)
 
@@ -48,6 +53,11 @@ outline: deep
 
 - Brockner, Shaw, Rubin : mise en évidence du piège abscon.
   - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 39)
+
+## 1986
+
+- Burger: Expérience sur la technique du "Ce n'est pas tout"
+  - http://e.guigon.free.fr/rsc/book/JouleBeauvois02.pdf (page 164)
 
 ## 1985
 

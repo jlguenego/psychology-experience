@@ -186,6 +186,15 @@ Il est réalisé par une attribution de valeur.
 Il consiste à renforcer le fait que l'acte demandé doit être fait en toute
 liberté par le sujet de façon à renforcer son engagement.
 
+### Et ce n'est pas tout
+
+Technique consistant à faire une offre qui parait excessive, puis ajouter
+progressivement des informations qui la rende plus attractive.
+
+Exemple:
+
+- "Et pour un euro de plus vous en avez deux."
+
 ## Techniques composites de manipulation
 
 Il s'agit de combiner les techniques vu précédemment ensemble pour acroître les
