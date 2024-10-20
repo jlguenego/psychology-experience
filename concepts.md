@@ -29,7 +29,7 @@ La force de l'engagement dépend par exemple :
 ### Illusion de liberté
 
 Kelley (1967), l'individu croît choisir en toute liberté, mais en fait choisit
-sous l'influence d'une soumission à d'une autorité sociale.
+sous l'influence d'une soumission à une autorité sociale.
 
 Exemple d'autorité sociale:
 
@@ -49,7 +49,9 @@ choix_
 
 Un acte problématique est un acte avec lequel notre morale, nos idées sont en
 désaccord. On aura une _dissonance cognitive_ si on execute un acte
-problématique.
+problématique. Festinger (1957) affirme qu'executer un acte problématique amène
+une personne à rationaliser cet acte, voire à transformer ses idées pour
+justifier cet acte.
 
 Un acte non problématique est un acte en accord avec nos idées. L'effectuer
 renforce nos idées.
