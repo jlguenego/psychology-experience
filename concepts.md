@@ -61,16 +61,22 @@ renforce nos idées.
 Méthode pour arriver à ses fins qui ne sont pas de la manipulation. Pour qu'il y
 ait manipulation, il faut que le sujet fasse les choses en toute liberté.
 
+Une fois le rapport de force enlevé, le sujet réadopte le comportement qu'il
+exerce en toute liberté.
+
+Exemple : des le radar loin derrière eux, les automobilistes accélèrent.
+
 ### Rationalisation
 
 Processus psychologique par lequel un sujet reconnait comme légitime les
-conduites qui leur sont extorquées par l'exercice du pouvoir.
+conduites qui leur sont extorquées par obéissance, ou par piège abscon, ou
+encore lors d'une escalade d'engagement.
 
 ### Personnalité
 
-On accorde aux gens le fait d'avoir un comportement consistant. Ils se
-comportent de la même manière dans des situations similaires. Encore faut-il
-bien prendre en compte le contexte d'engagement.
+On accorde aux gens le fait d'avoir un comportement consistant et donc
+prévisible. Ils se comportent de la même manière dans des situations similaires.
+Encore faut-il bien prendre en compte le contexte d'engagement.
 
 ### Persévération d'une décision
 
